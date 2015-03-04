@@ -1,0 +1,14 @@
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker.Test\obj\Debug\StalkerWorker.Test.csprojResolveAssemblyReference.cache
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker.Test\bin\Debug\Resources\PRENOM.txt
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker.Test\bin\Debug\StalkerWorker.Test.dll
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker.Test\bin\Debug\StalkerWorker.Test.pdb
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker.Test\bin\Debug\MongoDB.Bson.dll
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker.Test\bin\Debug\MongoDB.Driver.dll
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker.Test\bin\Debug\StalkerWorker.exe
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker.Test\bin\Debug\Facebook.dll
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker.Test\bin\Debug\StalkerWorker.pdb
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker.Test\bin\Debug\MongoDB.Bson.xml
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker.Test\bin\Debug\MongoDB.Driver.xml
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker.Test\bin\Debug\Facebook.xml
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker.Test\obj\Debug\StalkerWorker.Test.dll
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker.Test\obj\Debug\StalkerWorker.Test.pdb

@@ -1,0 +1,15 @@
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\bin\Debug\StalkerWorker.exe.config
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\bin\Debug\Resources\PRENOM.txt
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\bin\Debug\StalkerWorker.exe
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\bin\Debug\StalkerWorker.pdb
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\bin\Debug\Facebook.dll
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\bin\Debug\MongoDB.Bson.dll
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\bin\Debug\MongoDB.Driver.dll
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\bin\Debug\Facebook.xml
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\bin\Debug\MongoDB.Bson.xml
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\bin\Debug\MongoDB.Driver.xml
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\obj\Debug\StalkerWorker.Properties.Resources.resources
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\obj\Debug\StalkerWorker.csproj.GenerateResource.Cache
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\obj\Debug\StalkerWorker.exe
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\obj\Debug\StalkerWorker.pdb
+c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\obj\Debug\StalkerWorker.Form1.resources
