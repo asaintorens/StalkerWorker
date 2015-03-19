@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StalkerWorker", "StalkerWor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StalkerWorker.Test", "StalkerWorker.Test\StalkerWorker.Test.csproj", "{D170EE53-7DD9-4729-8451-231FDE87C5C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSiteStalker", "WebSiteStalker\WebSiteStalker.csproj", "{4CB8D27C-E0F5-4FD1-97DD-15684BE5CFA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSiteStalker.Tests", "WebSiteStalker.Tests\WebSiteStalker.Tests.csproj", "{22098D54-1E21-415B-A870-77CDC3BC9F00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{D170EE53-7DD9-4729-8451-231FDE87C5C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D170EE53-7DD9-4729-8451-231FDE87C5C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D170EE53-7DD9-4729-8451-231FDE87C5C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CB8D27C-E0F5-4FD1-97DD-15684BE5CFA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB8D27C-E0F5-4FD1-97DD-15684BE5CFA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB8D27C-E0F5-4FD1-97DD-15684BE5CFA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB8D27C-E0F5-4FD1-97DD-15684BE5CFA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22098D54-1E21-415B-A870-77CDC3BC9F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22098D54-1E21-415B-A870-77CDC3BC9F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22098D54-1E21-415B-A870-77CDC3BC9F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22098D54-1E21-415B-A870-77CDC3BC9F00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

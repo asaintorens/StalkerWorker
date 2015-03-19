@@ -44,6 +44,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.labelInputSecond = new System.Windows.Forms.Label();
             this.timerDatabase = new System.Windows.Forms.Timer(this.components);
+            this.labelError = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // labelCurrentName
@@ -162,11 +163,21 @@
             this.timerDatabase.Interval = 1000;
             this.timerDatabase.Tick += new System.EventHandler(this.timerDatabase_Tick_1);
             // 
+            // labelError
+            // 
+            this.labelError.AutoSize = true;
+            this.labelError.ForeColor = System.Drawing.Color.DarkRed;
+            this.labelError.Location = new System.Drawing.Point(545, 306);
+            this.labelError.Name = "labelError";
+            this.labelError.Size = new System.Drawing.Size(0, 13);
+            this.labelError.TabIndex = 12;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1241, 624);
+            this.Controls.Add(this.labelError);
             this.Controls.Add(this.labelInputSecond);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.LabelNumberThread);
@@ -201,6 +212,7 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label labelInputSecond;
         private System.Windows.Forms.Timer timerDatabase;
+        private System.Windows.Forms.Label labelError;
     }
 }
 

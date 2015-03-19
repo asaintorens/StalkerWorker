@@ -25,7 +25,13 @@ namespace StalkerWorker
         long lastNumberInMongo = 0;
 
         private void buttonStart_Click(object sender, EventArgs e)
+            
         {
+
+            try
+            {
+
+           
             this.NumberThread = int.Parse( this.LabelNumberThread.Text);
 
             for (int indexThread = 0; indexThread < this.NumberThread; indexThread++)
@@ -39,6 +45,13 @@ namespace StalkerWorker
             {
                 System.Threading.Thread oneThreadWalker = new System.Threading.Thread(stalk.LunchWorker);
                 oneThreadWalker.Start();
+            }
+
+            }
+            catch (Exception ex)
+            {
+
+                this.labelError.Text = ex.Message;
             }
         }
 
@@ -123,6 +136,10 @@ namespace StalkerWorker
 
         private void timerDatabase_Tick_1(object sender, EventArgs e)
         {
+            try
+            {
+
+
             this.labelInputInMongo.Text = this.managerMongo.CountEntryInMongo().ToString();
             long numberInMongo = this.managerMongo.CountEntryInMongo();
             long numberAddedInTimeLaps = numberInMongo - this.lastNumberInMongo;
@@ -130,6 +147,12 @@ namespace StalkerWorker
             this.labelInputSecond.Text = (numberAddedInTimeLaps).ToString();
 
             this.lastNumberInMongo = numberInMongo;
+            }
+            catch (Exception ex)
+            {
+
+                this.labelError.Text = ex.Message;
+            }
         }
     }
 }
