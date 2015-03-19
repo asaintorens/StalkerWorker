@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Sider</id>
+    <version>0.9.3</version>
+    <title>Sider</title>
+    <authors>Chakrit Wichian (http://chakrit.net/)</authors>
+    <owners>Chakrit Wichian (http://chakrit.net/)</owners>
+    <projectUrl>http://github.com/chakrit/sider</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SIDER : REDIS bindings for C#/.NET 4.0
+      Features clean API design that maps closely to actual Redis commands.
+      Assumes familiarity with Redis.
+      ---
+      Sider is a redis client that strives to sticks to the
+      metal as much as possible. Resulting in minimal, lightweight
+      easy to use client with no confusing method/command (re-)names
+      and no class hierarchies to setup.</description>
+    <summary>Please see https://github.com/chakrit/sider/blob/master/CHANGES.markdown
+      for the list of changes in this version. --</summary>
+    <tags>sider redis net40</tags>
+  </metadata>
+</package>
