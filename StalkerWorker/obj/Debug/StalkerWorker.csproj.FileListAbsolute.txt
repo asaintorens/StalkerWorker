@@ -13,4 +13,10 @@ c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWo
 c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\obj\Debug\StalkerWorker.exe
 c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\obj\Debug\StalkerWorker.pdb
 c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\obj\Debug\StalkerWorker.Form1.resources
-C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\obj\Debug\StalkerWorker.csprojResolveAssemblyReference.cache
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\bin\Debug\ServiceStack.Common.dll
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\bin\Debug\ServiceStack.Redis.dll
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\bin\Debug\ServiceStack.Text.dll
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\bin\Debug\ServiceStack.Common.xml
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\bin\Debug\ServiceStack.Redis.xml
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\bin\Debug\ServiceStack.Text.xml

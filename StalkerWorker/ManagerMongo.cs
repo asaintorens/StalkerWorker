@@ -11,7 +11,7 @@ namespace StalkerWorker
         public MongoClient client;
         public MongoServer server;
         public MongoDatabase database;
-        public static string connectionString = "mongodb://alex:pa$$wordMongo00@ds039321.mongolab.com:39321/projetstalker";
+        public static string connectionString = Config.URI_MONGO;
         MongoCollection<Users> collection;
         public ManagerMongo()
         {
@@ -53,14 +53,31 @@ namespace StalkerWorker
         {
             List<Users> returnList = new List<Users>();
 
+            try
+            {
 
+           
             returnList.AddRange(collection.FindAll().AsQueryable().Where(p => p.last_name.ToLower().Contains(text.ToLower()))
                             .Take(10).ToList());
+            }
+            catch (Exception)
+            {
 
+               
+            }
+            try
+            {
+
+            }
+            catch (Exception)
+            {
+                
+            
+            
             returnList.AddRange(collection.FindAll().AsQueryable().Where(p => p.first_name.ToLower().Contains(text.ToLower()))
                      .Take(10).ToList());
 
-
+            }
             return returnList;
         }
     }

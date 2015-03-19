@@ -20,3 +20,10 @@ C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteSt
 C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker.Tests\bin\Debug\fr\Microsoft.AspNet.FriendlyUrls.resources.dll
 C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker.Tests\obj\Debug\WebSiteStalker.Tests.dll
 C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker.Tests\obj\Debug\WebSiteStalker.Tests.pdb
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker.Tests\bin\Debug\ServiceStack.Redis.dll
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker.Tests\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker.Tests\bin\Debug\ServiceStack.Text.dll
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker.Tests\bin\Debug\ServiceStack.Common.dll
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker.Tests\bin\Debug\ServiceStack.Redis.xml
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker.Tests\bin\Debug\ServiceStack.Text.xml
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker.Tests\bin\Debug\ServiceStack.Common.xml

@@ -12,3 +12,10 @@ c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWo
 c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker.Test\bin\Debug\Facebook.xml
 c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker.Test\obj\Debug\StalkerWorker.Test.dll
 c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker.Test\obj\Debug\StalkerWorker.Test.pdb
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker.Test\bin\Debug\ServiceStack.Common.dll
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker.Test\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker.Test\bin\Debug\ServiceStack.Redis.dll
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker.Test\bin\Debug\ServiceStack.Text.dll
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker.Test\bin\Debug\ServiceStack.Common.xml
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker.Test\bin\Debug\ServiceStack.Redis.xml
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker.Test\bin\Debug\ServiceStack.Text.xml

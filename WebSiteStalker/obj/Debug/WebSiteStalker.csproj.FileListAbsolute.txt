@@ -30,3 +30,10 @@ C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteSt
 C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker\bin\MongoDB.Driver.xml
 C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker\bin\MongoDB.Bson.xml
 C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker\bin\Facebook.xml
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker\bin\ServiceStack.Redis.dll
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker\bin\ServiceStack.Interfaces.dll
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker\bin\ServiceStack.Text.dll
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker\bin\ServiceStack.Common.dll
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker\bin\ServiceStack.Redis.xml
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker\bin\ServiceStack.Text.xml
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker\bin\ServiceStack.Common.xml
