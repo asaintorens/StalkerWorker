@@ -27,7 +27,7 @@ namespace StalkerWorker
         private void buttonStart_Click(object sender, EventArgs e)
             
         {
-
+            Config.TOKEN_FB = this.textBoxToken.Text;
             try
             {
 

@@ -13,3 +13,4 @@ c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWo
 c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\obj\Debug\StalkerWorker.exe
 c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\obj\Debug\StalkerWorker.pdb
 c:\users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\obj\Debug\StalkerWorker.Form1.resources
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\obj\Debug\StalkerWorker.csprojResolveAssemblyReference.cache

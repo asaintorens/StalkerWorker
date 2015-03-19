@@ -45,6 +45,8 @@
             this.labelInputSecond = new System.Windows.Forms.Label();
             this.timerDatabase = new System.Windows.Forms.Timer(this.components);
             this.labelError = new System.Windows.Forms.Label();
+            this.textBoxToken = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // labelCurrentName
@@ -172,11 +174,29 @@
             this.labelError.Size = new System.Drawing.Size(0, 13);
             this.labelError.TabIndex = 12;
             // 
+            // textBoxToken
+            // 
+            this.textBoxToken.Location = new System.Drawing.Point(528, 457);
+            this.textBoxToken.Name = "textBoxToken";
+            this.textBoxToken.Size = new System.Drawing.Size(618, 20);
+            this.textBoxToken.TabIndex = 13;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(528, 438);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(80, 13);
+            this.label3.TabIndex = 14;
+            this.label3.Text = "tokenGraphAPI";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1241, 624);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.textBoxToken);
             this.Controls.Add(this.labelError);
             this.Controls.Add(this.labelInputSecond);
             this.Controls.Add(this.label1);
@@ -213,6 +233,8 @@
         private System.Windows.Forms.Label labelInputSecond;
         private System.Windows.Forms.Timer timerDatabase;
         private System.Windows.Forms.Label labelError;
+        private System.Windows.Forms.TextBox textBoxToken;
+        private System.Windows.Forms.Label label3;
     }
 }
 

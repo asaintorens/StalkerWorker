@@ -73,7 +73,7 @@ namespace StalkerWorker
 
         private void LoadUsers(List<string> listPrenom)
         {
-            FacebookClient fbClt = new FacebookClient("CAACEdEose0cBABr6UNWsEUb3KWldqpxVEdg334hRp9Utj7q6oQ5Yqv772DO3eOvdP9CCPjjcLPe1yQO97CStZBqJFFTVyKDZCaZBXHbh3cryS7iHTaSxpdeU3lEHII2QQBKlVlplDaDOXGjBvZB8MqdS2qTZCjYd9EOCCZBBA8Xag6Qj89ZBz06XsaeWBMgdS4SFx7JxWcsvCcSBK8QHtqUCCeYDZAEUMLEZD");
+            FacebookClient fbClt = new FacebookClient(Config.TOKEN_FB);
             this.progression = 0;
             ManagerMongo manager = new ManagerMongo();
 

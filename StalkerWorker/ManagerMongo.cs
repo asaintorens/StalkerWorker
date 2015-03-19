@@ -11,15 +11,16 @@ namespace StalkerWorker
         public MongoClient client;
         public MongoServer server;
         public MongoDatabase database;
-        public static string connectionString = "mongodb://localhost";
+        public static string connectionString = "mongodb://alex:pa$$wordMongo00@ds039321.mongolab.com:39321/projetstalker";
         MongoCollection<Users> collection;
         public ManagerMongo()
         {
             client = new MongoClient(connectionString);
             server = client.GetServer();
-            database = server.GetDatabase("local");
+            database = server.GetDatabase("projetstalker");
 
             collection = database.GetCollection<Users>("test2");
+
         }
         public void Insert(Users user)
         {
