@@ -37,3 +37,42 @@ C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteSt
 C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker\bin\ServiceStack.Redis.xml
 C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker\bin\ServiceStack.Text.xml
 C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker\bin\ServiceStack.Common.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\Resources\PRENOM.txt
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\WebSiteStalker.dll.config
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\WebSiteStalker.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\WebSiteStalker.pdb
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\Antlr3.Runtime.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\Newtonsoft.Json.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\StalkerWorker.exe
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\System.Web.Optimization.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\WebGrease.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\MongoDB.Driver.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\ServiceStack.Redis.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\MongoDB.Bson.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\ServiceStack.Interfaces.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\Facebook.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\ServiceStack.Text.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\ServiceStack.Common.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\StalkerWorker.pdb
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\System.Web.Optimization.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\Antlr3.Runtime.pdb
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\Newtonsoft.Json.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\MongoDB.Driver.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\ServiceStack.Redis.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\MongoDB.Bson.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\Facebook.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\ServiceStack.Text.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\ServiceStack.Common.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\bin\fr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\obj\Debug\WebSiteStalker.csprojResolveAssemblyReference.cache
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\obj\Debug\WebSiteStalker.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker\obj\Debug\WebSiteStalker.pdb

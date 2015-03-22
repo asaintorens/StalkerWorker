@@ -8,8 +8,8 @@ namespace StalkerWorker
 {
     public abstract class Worker
     {
-        public static RedisManager redisManager = new RedisManager();
-        public static ManagerMongo mongoManager = new ManagerMongo();
+        public  ManagerRedis redisManager = new ManagerRedis();
+        public  ManagerMongo mongoManager = new ManagerMongo();
 
         public string statut;
         public string progression;

@@ -27,3 +27,32 @@ C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteSt
 C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker.Tests\bin\Debug\ServiceStack.Redis.xml
 C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker.Tests\bin\Debug\ServiceStack.Text.xml
 C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\WebSiteStalker.Tests\bin\Debug\ServiceStack.Common.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\Resources\PRENOM.txt
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\WebSiteStalker.Tests.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\WebSiteStalker.Tests.pdb
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\WebSiteStalker.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\StalkerWorker.exe
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\MongoDB.Driver.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\ServiceStack.Redis.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\MongoDB.Bson.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\Facebook.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\ServiceStack.Text.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\ServiceStack.Common.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\WebSiteStalker.pdb
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\StalkerWorker.pdb
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\MongoDB.Driver.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\ServiceStack.Redis.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\MongoDB.Bson.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\Facebook.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\ServiceStack.Text.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\ServiceStack.Common.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\fr\System.Web.Optimization.resources.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\bin\Debug\fr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\obj\Debug\WebSiteStalker.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\obj\Debug\WebSiteStalker.Tests.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\WebSiteStalker.Tests\obj\Debug\WebSiteStalker.Tests.pdb

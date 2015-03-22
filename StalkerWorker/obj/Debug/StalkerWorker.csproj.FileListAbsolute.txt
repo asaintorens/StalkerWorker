@@ -21,3 +21,26 @@ C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWo
 C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\bin\Debug\ServiceStack.Redis.xml
 C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\bin\Debug\ServiceStack.Text.xml
 C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\obj\Debug\StalkerWorker.csprojResolveAssemblyReference.cache
+C:\Users\Alx\Documents\GitHub\StalkerWorker\StalkerWorker\bin\Debug\StalkerWorker.exe.config
+C:\Users\Alx\Documents\GitHub\StalkerWorker\StalkerWorker\obj\Debug\StalkerWorker.exe
+C:\Users\Alx\Documents\GitHub\StalkerWorker\StalkerWorker\obj\Debug\StalkerWorker.pdb
+C:\Users\Alx\Documents\GitHub\StalkerWorker\StalkerWorker\bin\Debug\Resources\PRENOM.txt
+C:\Users\Alx\Documents\GitHub\StalkerWorker\StalkerWorker\bin\Debug\StalkerWorker.exe
+C:\Users\Alx\Documents\GitHub\StalkerWorker\StalkerWorker\bin\Debug\StalkerWorker.pdb
+C:\Users\Alx\Documents\GitHub\StalkerWorker\StalkerWorker\bin\Debug\Facebook.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\StalkerWorker\bin\Debug\MongoDB.Bson.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\StalkerWorker\bin\Debug\MongoDB.Driver.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\StalkerWorker\bin\Debug\ServiceStack.Common.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\StalkerWorker\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\StalkerWorker\bin\Debug\ServiceStack.Redis.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\StalkerWorker\bin\Debug\ServiceStack.Text.dll
+C:\Users\Alx\Documents\GitHub\StalkerWorker\StalkerWorker\bin\Debug\Facebook.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\StalkerWorker\bin\Debug\MongoDB.Bson.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\StalkerWorker\bin\Debug\MongoDB.Driver.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\StalkerWorker\bin\Debug\ServiceStack.Common.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\StalkerWorker\bin\Debug\ServiceStack.Redis.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\StalkerWorker\bin\Debug\ServiceStack.Text.xml
+C:\Users\Alx\Documents\GitHub\StalkerWorker\StalkerWorker\obj\Debug\StalkerWorker.csprojResolveAssemblyReference.cache
+C:\Users\Alx\Documents\GitHub\StalkerWorker\StalkerWorker\obj\Debug\StalkerWorker.Form1.resources
+C:\Users\Alx\Documents\GitHub\StalkerWorker\StalkerWorker\obj\Debug\StalkerWorker.Properties.Resources.resources
+C:\Users\Alx\Documents\GitHub\StalkerWorker\StalkerWorker\obj\Debug\StalkerWorker.csproj.GenerateResource.Cache

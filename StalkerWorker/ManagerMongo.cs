@@ -80,5 +80,10 @@ namespace StalkerWorker
             }
             return returnList;
         }
+
+        internal void InsertOrUpdate(Users userToSave)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

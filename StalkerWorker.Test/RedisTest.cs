@@ -24,7 +24,7 @@ namespace StalkerWorker.Test
         [TestMethod]
         public void testInsert()
         {
-            RedisManager redis = new RedisManager();
+            ManagerRedis redis = new ManagerRedis();
             UserRedis user = new UserRedis();
 
             redis.Flush();
@@ -41,7 +41,7 @@ namespace StalkerWorker.Test
         [TestMethod]
         public void TestFlush()
         {
-            RedisManager redis = new RedisManager();
+            ManagerRedis redis = new ManagerRedis();
             redis.Flush();
 
             List<UserRedis> list = redis.GetAll();

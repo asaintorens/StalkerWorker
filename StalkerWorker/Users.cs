@@ -18,5 +18,11 @@ namespace StalkerWorker
         public string last_name;
         public string link;
 
+        public string image;
+        public string location;
+        public string timezone;
+        public string language;
+        public string pseudonym;
+
     }
 }
