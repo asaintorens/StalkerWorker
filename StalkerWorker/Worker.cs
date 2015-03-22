@@ -8,8 +8,8 @@ namespace StalkerWorker
 {
     public abstract class Worker
     {
-        public  ManagerRedis redisManager = new ManagerRedis();
-        public  ManagerMongo mongoManager = new ManagerMongo();
+        private  ManagerRedis redisManager = new ManagerRedis();
+        private  ManagerMongo mongoManager = new ManagerMongo();
 
         public string statut;
         public string progression;
@@ -30,6 +30,11 @@ namespace StalkerWorker
         public void InsertOrUpdateInMongo(Users userToSave)
         {
             mongoManager.InsertOrUpdate(userToSave);
+        }
+
+        public void NotifyUserCrawled(Users userToUpdate, TypeSocialNetwork type)
+        {
+            redisManager.UserCrawled(userToUpdate, type);
         }
 
     }

@@ -18,11 +18,11 @@ namespace StalkerWorker
             while(!pause)
             {
                 Users user = null;
-                user = this.redisManager.GetUserToCrawl(this.typeSocialNetwork);// retourne stalkerUsers
+                user = this.GetUserToCrawl();// retourne stalkerUsers
 
                 user =  this.CrawlTwitter (user); // ta logique de connexion et compagnie 
-                this.mongoManager.InsertOrUpdate(user );
-                this.redisManager.UserCrawled(user,this.typeSocialNetwork);
+                this.InsertOrUpdateInMongo(user );
+                this.NotifyUserCrawled(user,this.typeSocialNetwork);
             }
         }
 
