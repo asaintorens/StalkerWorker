@@ -20,3 +20,4 @@ C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWo
 C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\bin\Debug\ServiceStack.Common.xml
 C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\bin\Debug\ServiceStack.Redis.xml
 C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\bin\Debug\ServiceStack.Text.xml
+C:\Users\alexa_000\documents\visual studio 2013\Projects\StalkerWorker\StalkerWorker\obj\Debug\StalkerWorker.csprojResolveAssemblyReference.cache

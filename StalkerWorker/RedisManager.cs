@@ -89,5 +89,10 @@ namespace StalkerWorker
           redisCollection.SetSequence(0);
           redis.FlushAll();
       }
+
+      internal Users GetUserToCrawl(TypeSocialNetwork typeSocialNetwork)
+      {
+          throw new NotImplementedException();
+      }
     }
 }
