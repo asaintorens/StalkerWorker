@@ -28,7 +28,7 @@ namespace StalkerWorker
 
         private Users CrawlTwitter(Users user)
         {
-            TwitterCredentials.SetCredentials("3096221031-kjXhWNPcRG0Bzl0s2jJTWzKHTdghhWdmMA6j2Hl", "hw8DTAZqZqCY1boxepAIDaKWrgiY7vyYTIwC3PXlbENfe", "yL6JO5Gbu8FYkuV66mtTJlpW3", "p0tNMQUm41VxCtC6f6cvb5TvC5Lkq2DIR63D8JOIpqIVxybwtJ");
+            TwitterCredentials.SetCredentials("Access_Token", "Access_Token_Secret", "Consumer_Key", "Consumer_Secret");
             var TwitUser = User.GetUserFromScreenName(user.name);
 
             user.image = TwitUser.ProfileImageUrl;
