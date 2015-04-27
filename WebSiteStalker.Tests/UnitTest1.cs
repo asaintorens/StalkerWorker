@@ -9,8 +9,7 @@ namespace WebSiteStalker.Tests
         [TestMethod]
         public void TestMethod1()
         {
-
-        
+  
         }
     }
 }

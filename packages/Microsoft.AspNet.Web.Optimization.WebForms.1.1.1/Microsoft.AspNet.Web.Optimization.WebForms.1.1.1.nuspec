@@ -10,7 +10,9 @@
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>A Web Forms control for Microsoft.AspNet.Web.Optimization</description>
     <summary>A Web Forms control for Microsoft.AspNet.Web.Optimization</summary>
+    <releaseNotes />
     <copyright>© Microsoft Corporation. All rights reserved.</copyright>
+    <language />
     <tags>Optimization WebForms Control</tags>
     <dependencies>
       <dependency id="Microsoft.Web.Infrastructure" />

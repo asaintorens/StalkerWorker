@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using Tweetinvi;
 
@@ -15,14 +16,30 @@ namespace StalkerWorker
 
         public void work()
         {
-            while(!pause)
+            while (true)
             {
-                Users user = null;
-                user = this.GetUserToCrawl();// retourne stalkerUsers
+                while (!pause)
+                {
+                    try
+                    {
+                        this.statut = "Running";
+                        this.error = "";
 
-                user =  this.CrawlTwitter (user); // ta logique de connexion et compagnie 
-                this.InsertOrUpdateInMongo(user );
-                this.NotifyUserCrawled(user,this.typeSocialNetwork);
+                        Users user = null;
+                        user = this.GetUserToCrawl();// retourne stalkerUsers
+
+                        user = this.CrawlTwitter(user); // ta logique de connexion et compagnie 
+                        this.InsertOrUpdateInMongo(user);
+                        this.NotifyUserCrawled(user, this.typeSocialNetwork);
+                    }
+                    catch (Exception e)
+                    {
+                        this.pause = true;
+                        this.statut = "Paused error while crawling";
+                        this.error = e.Message;
+                    }
+                }
+                Thread.Sleep(100);
             }
         }
 

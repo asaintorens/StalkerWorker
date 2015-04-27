@@ -10,19 +10,19 @@ namespace StalkerWorker
 
     public class Users
     {
+        public string email { get; set; }
+        public ObjectId Id { get; set; }
+        public string id { get; set; }
+        public string name { get; set; }
+        public string first_name { get; set; }
+        public string last_name { get; set; }
+        public string link { get; set; }
 
-        public ObjectId Id;
-        public string id;
-        public string name;
-        public string first_name;
-        public string last_name;
-        public string link;
-
-        public string image;
-        public string location;
-        public string timezone;
-        public string language;
-        public string pseudonym;
-
+        public string image { get; set; }
+        public string location { get; set; }
+        public string timezone { get; set; }
+        public string language { get; set; }
+        public string pseudonym { get; set; }
+     
     }
 }
